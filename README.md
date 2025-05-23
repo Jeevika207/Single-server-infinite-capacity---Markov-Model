@@ -54,7 +54,6 @@ else:
 print("---------------------------------------------------------------")
 ```
 
-
 ## Output :
 ![446113706-5b27445f-7352-46a7-9fb2-fe09f5a2067e](https://github.com/user-attachments/assets/af050ae7-a586-4f07-a9fd-ea3c063e125e)
 
